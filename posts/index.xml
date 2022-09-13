@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Techinical Notes on Data Science</title>
-    <link>https://sh1l-n.github.io/</link>
-    <description>Recent content on Techinical Notes on Data Science</description>
+    <title>Posts on Techinical Notes on Data Science</title>
+    <link>https://sh1l-n.github.io/posts/</link>
+    <description>Recent content in Posts on Techinical Notes on Data Science</description>
     <image>
       <url>https://sh1l-n.github.io/papermod-cover.png</url>
       <link>https://sh1l-n.github.io/papermod-cover.png</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 12 Sep 2022 20:39:44 -0400</lastBuildDate><atom:link href="https://sh1l-n.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 12 Sep 2022 20:39:44 -0400</lastBuildDate><atom:link href="https://sh1l-n.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Test</title>
       <link>https://sh1l-n.github.io/posts/test/</link>
@@ -20,8 +20,6 @@
       <description>First Heading of the the first post Second heading A sub heading and more bold Test some more text here
 list item asfweg weothgjwoeir Dictionary : Dictionary definitions</description>
     </item>
-    
-    
     
   </channel>
 </rss>

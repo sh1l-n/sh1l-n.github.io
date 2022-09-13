@@ -2,12 +2,22 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://sh1l-n.github.io/test/</loc>
+    <loc>https://sh1l-n.github.io/posts/</loc>
     <lastmod>2022-09-12T20:39:44-04:00</lastmod>
+  </url><url>
+    <loc>https://sh1l-n.github.io/</loc>
+    <lastmod>2022-09-12T20:39:44-04:00</lastmod>
+  </url><url>
+    <loc>https://sh1l-n.github.io/posts/test/</loc>
+    <lastmod>2022-09-12T20:39:44-04:00</lastmod>
+  </url><url>
+    <loc>https://sh1l-n.github.io/archives/</loc>
   </url><url>
     <loc>https://sh1l-n.github.io/categories/</loc>
   </url><url>
-    <loc>https://sh1l-n.github.io/</loc>
+    <loc>https://sh1l-n.github.io/search/</loc>
+  </url><url>
+    <loc>https://sh1l-n.github.io/series/</loc>
   </url><url>
     <loc>https://sh1l-n.github.io/tags/</loc>
   </url>
