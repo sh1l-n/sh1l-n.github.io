@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Posts on Techinical Notes on Data Science</title>
+    <title>Posts on Notes on Topics</title>
     <link>https://sh1l-n.github.io/posts/</link>
-    <description>Recent content in Posts on Techinical Notes on Data Science</description>
+    <description>Recent content in Posts on Notes on Topics</description>
     <image>
       <url>https://sh1l-n.github.io/papermod-cover.png</url>
       <link>https://sh1l-n.github.io/papermod-cover.png</link>
@@ -19,6 +19,17 @@
       <guid>https://sh1l-n.github.io/posts/test/</guid>
       <description>First Heading of the the first post Second heading A sub heading and more bold Test some more text here
 list item asfweg weothgjwoeir Dictionary : Dictionary definitions</description>
+    </item>
+    
+    <item>
+      <title>This is an example post</title>
+      <link>https://sh1l-n.github.io/posts/myblog_examplepost/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://sh1l-n.github.io/posts/myblog_examplepost/</guid>
+      <description>About this blog This blog is collection of notes on techinical topics realted to the anlaysis of data, both qualitative and qunattitative.
+1 2 3 4 5 6 7 8 9 import matplotlib, numpy matplotlib.use(&amp;#39;Agg&amp;#39;) import matplotlib.pyplot as plt fig=plt.figure(figsize=(4,2)) x=numpy.linspace(-15,15) plt.plot(numpy.sin(x)/x) fig.tight_layout() plt.savefig(&amp;#39;images/python-matplot-fig.png&amp;#39;) return &amp;#39;images/python-matplot-fig.png&amp;#39; # return filename to org-mode \begin{equation} a^2 + b^2 = c^2 \end{equation}
+1 2 echo $SHELL ls -g </description>
     </item>
     
   </channel>
